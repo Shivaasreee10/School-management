@@ -1,1 +1,1 @@
-# School-management using pyhon
+# School-management using python
